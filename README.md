@@ -7,5 +7,3 @@ This is the first file in this repo.
 Teettotla Banh mi bespoiek DIY
 
 MORE IPSAUM
-
-MOAR
