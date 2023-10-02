@@ -2,8 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## HTML
 
-Teettotla Banh mi bespoiek DIY
-
-MORE IPSAUM
+1. index.html
